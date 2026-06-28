@@ -72,10 +72,9 @@ Proyecto de análisis financiero para AdventureWorks, donde actué como analista
  ┣ 📜 .gitignore              # Archivos excluidos de Git
  ┗ 📜 README.md               # Descripción general del proyecto
 ```
-    👩‍💻 Autor
-David Ramos https://www.linkedin.com/in/david-g-ramos/
-# 💰 AdventureWorks Financial Analytics - SQL C-Suite
-![SQL](https://img.shields.io/badge/SQL-Expert-red)
-![Finance](https://img.shields.io/badge/Finance-ROI%20Analysis-red)
-
+    
+### AUTOR:
+David Germán Ramos Rodríguez
+[LinkedIn](https://www.linkedin.com/in/david-g-ramos/) | 
+[Sitio Web](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
 
